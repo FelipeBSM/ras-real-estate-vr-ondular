@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1113 &111300000
+LightmapParameters:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UltraLightMapTesting
+  serializedVersion: 3
+  resolution: 8
+  clusterResolution: 0.5
+  irradianceBudget: 512
+  irradianceQuality: 32768
+  backFaceTolerance: 0.044
+  isTransparent: 0
+  modellingTolerance: 0.1
+  systemTag: -1
+  edgeStitching: 1
+  blurRadius: 2
+  directLightQuality: 64
+  antiAliasingSamples: 16
+  pushoff: 0.5
+  bakedLightmapTag: -1
+  limitLightmapCount: 1
+  maxLightmapCount: 100
+  AOQuality: 256
+  AOAntiAliasingSamples: 16
